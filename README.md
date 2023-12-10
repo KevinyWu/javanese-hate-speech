@@ -7,7 +7,7 @@ of hate speech detection in Javanese, emphasizing language and model choice.
 
 <img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/javanese_hate_speech.png" alt="drawing" width="450"/>
 
-Please see our [paper](https://github.com/KevinyWu/javanese-hate-speech/blob/main/paper.pdf).
+Please see our [paper](https://github.com/KevinyWu/javanese-hate-speech/blob/main/A_Deep_Learning_Approach_to_Abusive_Language_and_Hate_Speech_Detection_for_the_Javanese_Language.pdf).
 
 ## Code
 
